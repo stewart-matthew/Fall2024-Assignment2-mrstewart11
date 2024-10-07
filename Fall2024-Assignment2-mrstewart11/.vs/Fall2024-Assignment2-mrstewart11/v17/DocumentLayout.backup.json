@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CS330\\Projects\\Project2\\Fall2024-Assignment2-mrstewart11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1ACEB1-B8F1-4608-87CC-B0B77AD32583}|Fall2024-Assignment2-mrstewart11\\Fall2024-Assignment2-mrstewart11.csproj|c:\\cs330\\projects\\project2\\fall2024-assignment2-mrstewart11\\fall2024-assignment2-mrstewart11\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0A1ACEB1-B8F1-4608-87CC-B0B77AD32583}|Fall2024-Assignment2-mrstewart11\\Fall2024-Assignment2-mrstewart11.csproj|solutionrelative:fall2024-assignment2-mrstewart11\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\CS330\\Projects\\Project2\\Fall2024-Assignment2-mrstewart11\\Fall2024-Assignment2-mrstewart11\\wwwroot\\script.js",
+              "RelativeDocumentMoniker": "Fall2024-Assignment2-mrstewart11\\wwwroot\\script.js",
+              "ToolTip": "C:\\CS330\\Projects\\Project2\\Fall2024-Assignment2-mrstewart11\\Fall2024-Assignment2-mrstewart11\\wwwroot\\script.js",
+              "RelativeToolTip": "Fall2024-Assignment2-mrstewart11\\wwwroot\\script.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-07T22:22:09.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
